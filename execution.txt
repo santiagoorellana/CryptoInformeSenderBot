@@ -1,0 +1,18 @@
+
+****************************************
+MARKET VIEW 1.0
+autor: Santiago A. Orellana Perez
+email: tecnochago@gmail.com
+
+BotId: MarketView1
+ExchangeId: coinex
+CurrencyBase: ETH
+CurrencyQuote: USDT
+DatetimeLocal: 2025-11-01 21:09:27.409043
+DatetimeUTC: 2025-11-02 01:09:27.409000
+MERCADO ACTIVO: NO
+OBTENIDAS: 288 velas de temporalidad 5m
+OBTENIDAS: 168 velas de temporalidad 1h
+OBTENIDAS: 720 velas de temporalidad 1h
+
+TERMINADO OK
